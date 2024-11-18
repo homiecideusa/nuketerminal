@@ -7,7 +7,7 @@ const Header = () => {
                 <ul id="menu">
                     <li data-menuanchor="logon-hint" id="logo-hint"><a href="https://pump.fun/" target="_blank" rel="noopener noreferrer">Pump.Fun</a></li>
                     <li data-menuanchor="twitter" className='social'>
-                        <a href="https://www.twitter.com/FurterAlain" className="social-image-container">
+                        <a href="https://x.com/nuketerminal" className="social-image-container">
                             <img src="/assets/images/socials/twitter-icon-white.png" alt="Twitter image" />
                         </a>
                     </li>
