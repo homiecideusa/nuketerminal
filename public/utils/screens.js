@@ -264,8 +264,8 @@ async function games() {
   } else {
     await type([
       " ",
-      "1. TYPE 'HELP' FOR A LIST OF AVAILABLE COMMANDS. OR",
-      "2. TYPE 'GAMES' FOR A LIST OF AVAILABLE GAMES. OR",
+      "1. CA:7MTsnvGFEVUCqY1K2aQhCeXCQ7ijymQG24WbrLopump ",
+      "2. SOCIALS. ONLY X. ",
       "3. AGENT: ASK ME A QUESTION.",
       " ",
       " ",
