@@ -254,7 +254,7 @@ async function games() {
   // SyntaxError();
   await type(["GREETINGS PROFESSOR FURTER.", " "], { speak: true });
   say("SHALL WE PLAY A GAME?");
-  let answer = await prompt(["SHALL WE PLAY A GAME? (Y/N)", " "]);
+  let answer = await prompt(["SHALL WE PLAY A NUKE GAME? IF NO, YOU CAN TALK WITH AGENT. (Y/N)", " "]);
   if (answer === "y" || answer === "yes") {
     console.log("select game");
     await type(output);
@@ -266,7 +266,7 @@ async function games() {
       " ",
       "1. TYPE 'HELP' FOR A LIST OF AVAILABLE COMMANDS. OR",
       "2. TYPE 'GAMES' FOR A LIST OF AVAILABLE GAMES. OR",
-      "3. ASK ME A QUESTION.",
+      "3. AGENT: ASK ME A QUESTION.",
       " ",
       " ",
     ]);
