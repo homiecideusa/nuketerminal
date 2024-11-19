@@ -264,8 +264,8 @@ async function games() {
   } else {
     await type([
       " ",
-      "1. CA:7MTsnvGFEVUCqY1K2aQhCeXCQ7ijymQG24WbrLopump ",
-      "2. SOCIALS. ONLY X. ",
+      "1. CA: ",
+      "2. SOCIALS. X.COM ",
       "3. AGENT: ASK ME A QUESTION.",
       " ",
       " ",
