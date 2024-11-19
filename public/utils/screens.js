@@ -89,7 +89,7 @@ async function login() {
     return login();
   }
 
-  if (logon === "cabal") {
+  if (logon === "a16") {
     await pause();
     await alert("LOGON SUCCESSFUL");
     clear();
