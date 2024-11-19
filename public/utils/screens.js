@@ -31,7 +31,7 @@ async function login() {
   await type(
     [
       " ",
-      "FURTER AI INDUSTRIES  1977",
+      "16Z Command Core",
       "🀫🀫🀫🀫🀫🀫🀫🀫🀫🀫🀫🀫🀫🀫🀫🀫🀫",
       " ",
       "||45-45-F6-3456            NOPR STATUS: TRAK OFF        PRON ACTIVE",
