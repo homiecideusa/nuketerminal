@@ -252,7 +252,7 @@ async function games() {
   const event = new CustomEvent("playwoprsound");
   window.dispatchEvent(event);
   // SyntaxError();
-  await type(["GREETINGS PROFESSOR FURTER.", " "], { speak: true });
+  await type(["HELLO 16Z COMMAND CORE", " "], { speak: true });
   say("SHALL WE PLAY A GAME?");
   let answer = await prompt(["SHALL WE PLAY A NUKE GAME? IF NO, YOU CAN TALK WITH AGENT. (Y/N)", " "]);
   if (answer === "y" || answer === "yes") {
