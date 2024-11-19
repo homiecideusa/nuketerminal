@@ -89,7 +89,7 @@ async function login() {
     return login();
   }
 
-  if (logon === "a16") {
+  if (logon === "16z") {
     await pause();
     await alert("LOGON SUCCESSFUL");
     clear();
